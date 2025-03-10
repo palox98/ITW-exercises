@@ -30,10 +30,10 @@
 
 ## Planned exams schedule
 
-|    **Exam**   |  **Exam Date** | **Exam time** |
-|---------------|----------------|---------------|
-| Mid-term exam |   25.03.2025 :warning:  | 08:30 – 09:00 OR 09:15 – 09:45|
-| End-term exam |   06.05.2025   | 08:30 – 09:00 OR 09:15 – 09:45|
+|    **Exam**   |  **Exam Date** | **Exam time** | **Exam room** |
+|---------------|----------------|---------------|----------------|
+| Mid-term exam |   25.03.2025 :warning:  | 08:30 – 09:00 OR 09:15 – 09:45| D105 |
+| End-term exam |   06.05.2025   | 08:30 – 09:00 OR 09:15 – 09:45| D105 |
 
 ## Consultations
 

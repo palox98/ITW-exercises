@@ -5,7 +5,6 @@
 - [Course website (Czech)](https://www.fit.vut.cz/study/course/ITW/.cs)
 - [Course website (English)](https://www.fit.vut.cz/study/course/ITW/.en)
 - [Course e-learning](https://moodle.vut.cz/course/view.php?id=280948)
-- 
 - [Computer laboratories private website](https://www.fit.vut.cz/study/course/ITW/private/cviceni/)
 - [Lectures private website](https://www.fit.vut.cz/study/course/ITW/private/prednasky/)
 - [Tutorial on how to setup student pages on Eva server (section 13 - eva/Web)](https://www.fit.vut.cz/units/cvt/faq/.cs)

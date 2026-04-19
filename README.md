@@ -12,7 +12,7 @@
 ## Planned exercise schedule
 
 | **Exercise** | **Topic**                     | **Due Date**  |
-|--------------|-------------------------------|---------------|
+|:--------------:|:-------------------------------|:--------------:|
 | Exercise 1   | DNS, HTTP                     | 16.02.2026    |
 | Exercise 2   | HTML                          | 23.02.2026    |
 | Exercise 3   | Basic styling using CSS       | 02.03.2026    |
@@ -25,14 +25,14 @@
 ## Planned projects schedule
 
 | **Project** | **Topic**                                          |      **Theme**      | **Due Date**  | **Due Time**  |
-|--------------|---------------------------------------------------|---------------------|---------------|---------------|
+|:--------------:|:---------------------------------------------------|:---------------------|:--------------:|:--------------:|
 | Project 1   | Basic presentation in HTML + CSS                   |          The Tambury Gazette         |  05.04.2026         |     23:59     |
 | Project 2   | Advanced presentation using HTML5, CSS3 and jQuery | Personal or a fictional character website  |  03.05.2026         |     23:59     |
 
 ## Planned exams schedule
 
 |    **Exam**   |  **Exam Date** | **Exam time** | **Exam room** |
-|---------------|----------------|---------------|----------------|
+|:---------------:|:----------------:|:---------------:|:----------------:|
 | Mid-term exam |   24.03.2026   | 08:30 – 09:00 OR 09:15 – 09:45| D105 |
 | End-term exam |   05.05.2026   | 08:30 – 09:00 OR 09:15 – 09:45| D105 |
 

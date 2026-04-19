@@ -19,14 +19,15 @@
 | Exercise 4   | Page layout using CSS         | 09.03.2026    |
 | _working on the projects_ | ---------------------| -----------   |
 | Exercise 5   | CSS3, responsive design       | 20.04.2026    |
-| Exercise 6   | Javascript, JQuery            | 27.04.2026    |
+| _working on the projects_ | ---------------------| -----------   |
+| Exercise 6   | Javascript, JQuery            | 04.05.2026    |
 
 ## Planned projects schedule
 
 | **Project** | **Topic**                                          |      **Theme**      | **Due Date**  | **Due Time**  |
 |--------------|---------------------------------------------------|---------------------|---------------|---------------|
-| Project 1   | Basic presentation in HTML + CSS                   | TBD |  TBD   |     TBD    |
-| Project 2   | Advanced presentation using HTML5, CSS3 and jQuery |         TBD         |  TBD |     TBD   |
+| Project 1   | Basic presentation in HTML + CSS                   |          The Tambury Gazette         |  05.04.2026         |     23:59     |
+| Project 2   | Advanced presentation using HTML5, CSS3 and jQuery | Personal or a fictional character website  |  03.05.2026         |     23:59     |
 
 ## Planned exams schedule
 

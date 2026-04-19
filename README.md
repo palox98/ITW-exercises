@@ -12,7 +12,7 @@
 ## Planned exercise schedule
 
 | **Exercise** | **Topic**                     | **Due Date**  |
-|:--------------:|:-------------------------------|:--------------:|
+|:--------------|:-------------------------------|:--------------:|
 | Exercise 1   | DNS, HTTP                     | 16.02.2026    |
 | Exercise 2   | HTML                          | 23.02.2026    |
 | Exercise 3   | Basic styling using CSS       | 02.03.2026    |
